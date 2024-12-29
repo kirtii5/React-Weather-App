@@ -9,7 +9,7 @@ export default function WeatherApp() {
         maxTemp: 21.1,
         minTemp: 21.1,
         feelsLike: 21.43,
-        humidity: 83,
+        humidity: 73,
         weather: "haze",
     });
 
