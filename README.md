@@ -23,38 +23,41 @@ This is a simple weather application built using React and Material-UI. It fetch
    git clone https://github.com/yourusername/your-repository-name.git
    cd your-repository-name
 2. Install dependencies:
+   ```bash
    npm install
 3.Create a .env file in the root directory and add your OpenWeatherMap API key:
+   ```bash
   REACT_APP_API_URL=https://api.openweathermap.org/data/2.5/weather
   REACT_APP_API_KEY=your_api_key_here
 4.Run the development server:
+   ```bash
   npm start
 5. Open http://localhost:3000 in your browser to view the application.
 
-**Usage**
+## Usage
   -Enter the name of a city in the input field and click "Search".
   
   -The application will display the current weather information for the entered city.
   
   -If the city is not found, an alert will be displayed.
 
-**Deployment**
+## Deployment
 The application is deployed on Netlify. Follow these steps to update your deployed site:
 
-**License**
+## License
 This project is licensed under the MIT License.
 
-**Contributing**
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-**Acknowledgements**
+## Acknowledgements
 Create React App for the initial project setup
 
 Material-UI for the UI components
 
 OpenWeatherMap for the weather API
 
-**Contact**
+## Contact
 For any questions or feedback, feel free to contact at kirtimmd2@gmail.com.
 
 
